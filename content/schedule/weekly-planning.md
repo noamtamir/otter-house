@@ -2,7 +2,7 @@
 title: "16-23.12.2024"
 date: 2024-12-06
 draft: true
-image: '/img/weekly-planning.jpg'
+image: '/otter-house/img/weekly-planning.jpg'
 ---
 <!--more-->
 

@@ -4,7 +4,7 @@ date: 2024-11-29T11:21:15+01:00
 tags:
   - Mexican
 draft: false
-image: '/img/chiles_en_nogada.jpeg'
+image: '/otter-house/img/chiles_en_nogada.jpeg'
 ---
 Mexican Dia del Independencia typical dish is an amazing dish everyone should taste.
 

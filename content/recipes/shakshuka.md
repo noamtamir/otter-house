@@ -4,7 +4,7 @@ date: 2024-11-29T11:21:15+01:00
 tags:
   - Israeli
 draft: false
-image: '/img/shakshuka.jpg'
+image: '/otter-house/img/shakshuka.jpg'
 ---
 One of the best easy to make healthy Israeli brunch dishes
 
