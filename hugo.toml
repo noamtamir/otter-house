@@ -1,0 +1,10 @@
+baseURL = 'http://localhost'
+languageCode = 'en-us'
+title = 'The Otter House Recipes'
+theme = 'quint'
+summaryLength = 20
+sectionPagesMenu = 'main'
+
+[params]
+useToc = true
+# description = 'coolznezz'
