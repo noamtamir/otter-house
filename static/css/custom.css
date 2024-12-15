@@ -1,8 +1,13 @@
-table {
-    border-radius: 5px;
+thead tr {
+    background-color: #0a483b;
+    color: #ffffff;
+    text-align: left;
 }
 
 th, td {
-    padding: 15px;
-    text-align: left;
+    padding: 12px 15px !important;
+}
+
+td:first-child {
+    background-color: #0a483b;
 }
