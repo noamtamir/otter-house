@@ -1,4 +1,4 @@
-baseURL = 'http://localhost'
+baseURL = 'https://noamtamir.github.io/otter-house'
 languageCode = 'en-us'
 title = 'The Otter House Recipes'
 theme = 'quint'
@@ -7,4 +7,3 @@ sectionPagesMenu = 'main'
 
 [params]
 useToc = true
-# description = 'coolznezz'
