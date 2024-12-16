@@ -16,3 +16,18 @@ td:first-child {
     color: #ffffff;
     text-shadow: 0 0 5px rgba(0, 0, 0, 0.7), 0 0 10px rgba(0, 0, 0, 0.7), 0 0 20px rgba(0, 0, 0, 0.7), 0 0 40px rgba(0, 0, 0, 0.7), 0 0 80px rgba(0, 0, 0, 0.7), 0 0 90px rgba(0, 0, 0, 0.7), 0 0 100px rgba(0, 0, 0, 0.7), 0 0 150px rgba(0, 0, 0, 0.7);
 }
+
+/* Font Faces */
+@font-face {
+    font-family: 'OpenSauceOne';
+    src: url('/otter-house/fonts/OpenSauceOne-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'OpenSauceOne';
+    src: url('/otter-house/fonts/OpenSauceOne-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
