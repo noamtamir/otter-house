@@ -11,3 +11,8 @@ th, td {
 td:first-child {
     background-color: #0a483b;
 }
+
+.hero h1, .subtitle {
+    color: #ffffff;
+    text-shadow: 0 0 5px rgba(0, 0, 0, 0.7), 0 0 10px rgba(0, 0, 0, 0.7), 0 0 20px rgba(0, 0, 0, 0.7), 0 0 40px rgba(0, 0, 0, 0.7), 0 0 80px rgba(0, 0, 0, 0.7), 0 0 90px rgba(0, 0, 0, 0.7), 0 0 100px rgba(0, 0, 0, 0.7), 0 0 150px rgba(0, 0, 0, 0.7);
+}
