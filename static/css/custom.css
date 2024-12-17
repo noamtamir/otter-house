@@ -42,3 +42,18 @@ td:first-child {
     font-weight: bold;
     font-style: normal;
 }
+
+@media (max-width:370px) {
+    table th {
+        display: table-cell;
+        /* grid-template-columns: repeat(auto-fit, minmax(auto, 1fr)) */
+    }
+}
+
+
+@media (max-width:420px) {
+    table tr {
+        display: table-row;
+        /* grid-template-columns: repeat(auto-fit, minmax(auto, 1fr)) */
+    }
+}
