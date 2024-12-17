@@ -5,7 +5,7 @@ tags:
     - Israeli
     - Mexican
 draft: true
-image: ''
+image: '/otter-house/img/<placeholder>.jpg'
 ---
 Write summary here
 
