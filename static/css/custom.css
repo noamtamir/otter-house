@@ -4,6 +4,17 @@ thead tr {
     text-align: left;
 }
 
+table {
+    max-width: calc(100vw - 4rem);
+    overflow-x: scroll;
+    display: block;
+    border-radius: 15px;
+}
+
+tr {
+  display: table-row;
+}
+
 th, td {
     padding: 12px 15px !important;
 }
